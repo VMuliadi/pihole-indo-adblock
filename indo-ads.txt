@@ -124,7 +124,6 @@
 0.0.0.0 fnkyyrgraizy.com
 0.0.0.0 fonderreaders.info
 0.0.0.0 forumiklan.com
-0.0.0.0 g.doubleclick.net
 0.0.0.0 gahhlbxdgw.com
 0.0.0.0 gjeyqtunbnap.com
 0.0.0.0 global.appnext.com
@@ -261,7 +260,6 @@
 0.0.0.0 pussl13.com
 0.0.0.0 pwdmtyzyq.com
 0.0.0.0 qqpilihan.com
-0.0.0.0 qualtrics.com
 0.0.0.0 realwap.net
 0.0.0.0 redonetype.com
 0.0.0.0 referral-secrets.com
@@ -306,7 +304,6 @@
 0.0.0.0 taboola.com
 0.0.0.0 tangkasnet.cool
 0.0.0.0 teliad.com
-0.0.0.0 textnoise.com
 0.0.0.0 tgw-pmir.3g.qq.com
 0.0.0.0 theclickers.net
 0.0.0.0 tinggalklik.com
@@ -331,7 +328,6 @@
 0.0.0.0 u-on.eu
 0.0.0.0 undef8trust.com
 0.0.0.0 uoarbhxfyygn.com
-0.0.0.0 upgulpinon.com
 0.0.0.0 usa.ime.cootek.com
 0.0.0.0 useads.com
 0.0.0.0 vdtrack.com
